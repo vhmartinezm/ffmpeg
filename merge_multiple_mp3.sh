@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# -vn means no video
-ffmpeg -i input.mp4 -vn output.mp3
+# file.txt
+# file 'file1.mp3'
+# file 'file2.mp3'
+# file 'file3.mp3'
 
-# if the mp3 output results in a broken mp3 file
-# setting the mp3 codec to libmp3lame may fix the issue
-ffmpeg -i input.mp4 -vn -acodec libmp3lame output.mp3
+ffmpeg -f concat -i file.txt -c copy output.mp3
