@@ -11,3 +11,4 @@
 - How to convert avi to mp4.
 - How to convert flv to mp4.
 - How to convert WebM to mp4.
+- How to convert mp4 to gif.
