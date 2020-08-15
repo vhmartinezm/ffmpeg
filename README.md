@@ -12,3 +12,4 @@
 - How to convert flv to mp4.
 - How to convert WebM to mp4.
 - How to convert mp4 to gif.
+- How to compress mp4 and reduce file size.
