@@ -13,4 +13,5 @@
 - How to convert WebM to mp4.
 - How to convert mp4 to gif.
 - How to compress mp4 and reduce file size.
-- How to trim x seconds from the start of an video file.
+- How to trim x seconds from the start of a video file.
+- How to trim x seconds from the end of a video file.
